@@ -1,259 +1,349 @@
 date,source,medium,campaign,device_category,sessions,users,new_users,pageviews,pages_per_session,avg_session_duration_seconds,bounce_rate,entrances,landing_page
-2025-12-01,facebook,cpc,remarketing_campaign,desktop,456,398,187,2394,5.25,187.3,0.4254,456,/
-2025-12-01,facebook,cpc,remarketing_campaign,mobile,312,276,134,1435,4.60,152.4,0.4872,312,/
-2025-12-01,facebook,cpc,remarketing_campaign,tablet,54,48,23,243,4.50,145.2,0.5000,54,/
-2025-12-01,google,organic,(not set),desktop,234,198,89,1123,4.80,168.5,0.4359,234,/
-2025-12-01,google,organic,(not set),mobile,167,143,67,756,4.53,142.6,0.4731,167,/
 2025-12-01,direct,(none),(not set),desktop,89,76,12,401,4.51,178.4,0.3933,89,/
 2025-12-01,direct,(none),(not set),mobile,56,48,8,234,4.18,145.3,0.4643,56,/
+2025-12-01,facebook,cpc,remarketing_campaign,desktop,456,398,187,2394,5.25,187.3,0.4254,456,/
+2025-12-01,facebook,cpc,remarketing_campaign,mobile,312,276,134,1435,4.6,152.4,0.4872,312,/
+2025-12-01,facebook,cpc,remarketing_campaign,tablet,54,48,23,243,4.5,145.2,0.5,54,/
+2025-12-01,google,cpc,remarketing_gdn,desktop,507,441,212,2281,4.5,166.8,0.484,507,/
+2025-12-01,google,cpc,remarketing_gdn,mobile,350,308,154,1365,3.9,133.8,0.5488,350,/
+2025-12-01,google,cpc,remarketing_gdn,tablet,66,58,29,250,3.8,138.1,0.5306,66,/
+2025-12-01,google,organic,(not set),desktop,234,198,89,1123,4.8,168.5,0.4359,234,/
+2025-12-01,google,organic,(not set),mobile,167,143,67,756,4.53,142.6,0.4731,167,/
+2025-12-02,direct,(none),(not set),desktop,86,74,11,387,4.5,175.1,0.3953,86,/
+2025-12-02,direct,(none),(not set),mobile,54,46,8,226,4.19,142.8,0.463,54,/
 2025-12-02,facebook,cpc,remarketing_campaign,desktop,441,385,178,2301,5.22,184.2,0.4308,441,/
-2025-12-02,facebook,cpc,remarketing_campaign,mobile,302,268,128,1389,4.60,149.8,0.4901,302,/
-2025-12-02,facebook,cpc,remarketing_campaign,tablet,52,46,22,234,4.50,142.6,0.5096,52,/
-2025-12-02,google,organic,(not set),desktop,227,192,86,1089,4.80,165.3,0.4405,227,/
+2025-12-02,facebook,cpc,remarketing_campaign,mobile,302,268,128,1389,4.6,149.8,0.4901,302,/
+2025-12-02,facebook,cpc,remarketing_campaign,tablet,52,46,22,234,4.5,142.6,0.5096,52,/
+2025-12-02,google,cpc,remarketing_gdn,desktop,482,419,202,2169,4.5,157.1,0.4677,482,/
+2025-12-02,google,cpc,remarketing_gdn,mobile,333,293,146,1298,3.9,144.7,0.53,333,/
+2025-12-02,google,cpc,remarketing_gdn,tablet,63,56,28,239,3.8,121.7,0.5559,63,/
+2025-12-02,google,organic,(not set),desktop,227,192,86,1089,4.8,165.3,0.4405,227,/
 2025-12-02,google,organic,(not set),mobile,162,139,65,735,4.54,140.2,0.4753,162,/
-2025-12-02,direct,(none),(not set),desktop,86,74,11,387,4.50,175.1,0.3953,86,/
-2025-12-02,direct,(none),(not set),mobile,54,46,8,226,4.19,142.8,0.4630,54,/
-2025-12-03,facebook,cpc,remarketing_campaign,desktop,478,417,196,2508,5.24,189.6,0.4226,478,/
-2025-12-03,facebook,cpc,remarketing_campaign,mobile,327,289,140,1504,4.60,154.2,0.4862,327,/
-2025-12-03,facebook,cpc,remarketing_campaign,tablet,58,51,24,261,4.50,147.3,0.4966,58,/
-2025-12-03,google,organic,(not set),desktop,241,204,92,1156,4.80,170.4,0.4316,241,/
-2025-12-03,google,organic,(not set),mobile,172,147,69,780,4.53,144.7,0.4709,172,/
-2025-12-03,direct,(none),(not set),desktop,92,79,12,414,4.50,180.2,0.3913,92,/
+2025-12-03,direct,(none),(not set),desktop,92,79,12,414,4.5,180.2,0.3913,92,/
 2025-12-03,direct,(none),(not set),mobile,58,50,8,243,4.19,147.5,0.4655,58,/
-2025-12-04,facebook,cpc,remarketing_campaign,desktop,452,394,185,2367,5.24,186.1,0.4270,452,/
-2025-12-04,facebook,cpc,remarketing_campaign,mobile,309,273,132,1421,4.60,151.3,0.4886,309,/
+2025-12-03,facebook,cpc,remarketing_campaign,desktop,478,417,196,2508,5.24,189.6,0.4226,478,/
+2025-12-03,facebook,cpc,remarketing_campaign,mobile,327,289,140,1504,4.6,154.2,0.4862,327,/
+2025-12-03,facebook,cpc,remarketing_campaign,tablet,58,51,24,261,4.5,147.3,0.4966,58,/
+2025-12-03,google,cpc,remarketing_gdn,desktop,531,461,223,2389,4.5,163.1,0.4763,531,/
+2025-12-03,google,cpc,remarketing_gdn,mobile,367,322,161,1431,3.9,128.5,0.5442,367,/
+2025-12-03,google,cpc,remarketing_gdn,tablet,69,61,31,262,3.8,133.4,0.5205,69,/
+2025-12-03,google,organic,(not set),desktop,241,204,92,1156,4.8,170.4,0.4316,241,/
+2025-12-03,google,organic,(not set),mobile,172,147,69,780,4.53,144.7,0.4709,172,/
+2025-12-04,direct,(none),(not set),desktop,88,76,12,396,4.5,177.3,0.3977,88,/
+2025-12-04,direct,(none),(not set),mobile,56,48,8,235,4.2,144.6,0.4643,56,/
+2025-12-04,facebook,cpc,remarketing_campaign,desktop,452,394,185,2367,5.24,186.1,0.427,452,/
+2025-12-04,facebook,cpc,remarketing_campaign,mobile,309,273,132,1421,4.6,151.3,0.4886,309,/
 2025-12-04,facebook,cpc,remarketing_campaign,tablet,55,48,23,247,4.49,144.5,0.5091,55,/
-2025-12-04,google,organic,(not set),desktop,233,197,89,1118,4.80,167.8,0.4378,233,/
+2025-12-04,google,cpc,remarketing_gdn,desktop,501,435,210,2254,4.5,161.3,0.4862,501,/
+2025-12-04,google,cpc,remarketing_gdn,mobile,346,304,152,1349,3.9,130.0,0.5409,346,/
+2025-12-04,google,cpc,remarketing_gdn,tablet,65,57,29,247,3.8,131.9,0.5548,65,/
+2025-12-04,google,organic,(not set),desktop,233,197,89,1118,4.8,167.8,0.4378,233,/
 2025-12-04,google,organic,(not set),mobile,166,142,67,753,4.54,142.4,0.4735,166,/
-2025-12-04,direct,(none),(not set),desktop,88,76,12,396,4.50,177.3,0.3977,88,/
-2025-12-04,direct,(none),(not set),mobile,56,48,8,235,4.20,144.6,0.4643,56,/
-2025-12-05,facebook,cpc,remarketing_campaign,desktop,467,407,191,2447,5.24,188.4,0.4240,467,/
-2025-12-05,facebook,cpc,remarketing_campaign,mobile,319,282,137,1467,4.60,152.9,0.4875,319,/
-2025-12-05,facebook,cpc,remarketing_campaign,tablet,57,50,24,256,4.49,146.1,0.4965,57,/
-2025-12-05,google,organic,(not set),desktop,238,202,91,1142,4.80,169.2,0.4345,238,/
-2025-12-05,google,organic,(not set),mobile,170,145,68,771,4.54,143.8,0.4706,170,/
-2025-12-05,direct,(none),(not set),desktop,90,77,12,405,4.50,178.9,0.3944,90,/
+2025-12-05,direct,(none),(not set),desktop,90,77,12,405,4.5,178.9,0.3944,90,/
 2025-12-05,direct,(none),(not set),mobile,57,49,8,239,4.19,146.2,0.4649,57,/
-2025-12-06,facebook,cpc,remarketing_campaign,desktop,489,426,200,2562,5.24,191.3,0.4213,489,/
-2025-12-06,facebook,cpc,remarketing_campaign,mobile,334,295,143,1536,4.60,155.4,0.4850,334,/
-2025-12-06,facebook,cpc,remarketing_campaign,tablet,59,52,25,265,4.49,148.2,0.4915,59,/
-2025-12-06,google,organic,(not set),desktop,245,208,94,1175,4.80,171.5,0.4327,245,/
-2025-12-06,google,organic,(not set),mobile,175,149,70,794,4.54,145.3,0.4686,175,/
+2025-12-05,facebook,cpc,remarketing_campaign,desktop,467,407,191,2447,5.24,188.4,0.424,467,/
+2025-12-05,facebook,cpc,remarketing_campaign,mobile,319,282,137,1467,4.6,152.9,0.4875,319,/
+2025-12-05,facebook,cpc,remarketing_campaign,tablet,57,50,24,256,4.49,146.1,0.4965,57,/
+2025-12-05,google,cpc,remarketing_gdn,desktop,519,451,217,2335,4.5,166.6,0.463,519,/
+2025-12-05,google,cpc,remarketing_gdn,mobile,359,315,157,1400,3.9,126.4,0.5235,359,/
+2025-12-05,google,cpc,remarketing_gdn,tablet,67,59,30,254,3.8,122.9,0.526,67,/
+2025-12-05,google,organic,(not set),desktop,238,202,91,1142,4.8,169.2,0.4345,238,/
+2025-12-05,google,organic,(not set),mobile,170,145,68,771,4.54,143.8,0.4706,170,/
 2025-12-06,direct,(none),(not set),desktop,93,80,12,419,4.51,181.2,0.3925,93,/
 2025-12-06,direct,(none),(not set),mobile,59,51,8,247,4.19,148.1,0.4631,59,/
-2025-12-07,facebook,cpc,remarketing_campaign,desktop,473,412,194,2479,5.24,189.7,0.4227,473,/
-2025-12-07,facebook,cpc,remarketing_campaign,mobile,323,286,139,1486,4.60,153.6,0.4861,323,/
-2025-12-07,facebook,cpc,remarketing_campaign,tablet,57,50,24,256,4.49,146.8,0.4912,57,/
-2025-12-07,google,organic,(not set),desktop,240,204,92,1152,4.80,170.1,0.4333,240,/
-2025-12-07,google,organic,(not set),mobile,171,146,69,776,4.54,144.2,0.4708,171,/
+2025-12-06,facebook,cpc,remarketing_campaign,desktop,489,426,200,2562,5.24,191.3,0.4213,489,/
+2025-12-06,facebook,cpc,remarketing_campaign,mobile,334,295,143,1536,4.6,155.4,0.485,334,/
+2025-12-06,facebook,cpc,remarketing_campaign,tablet,59,52,25,265,4.49,148.2,0.4915,59,/
+2025-12-06,google,cpc,remarketing_gdn,desktop,543,472,228,2443,4.5,166.2,0.4862,543,/
+2025-12-06,google,cpc,remarketing_gdn,mobile,375,330,165,1462,3.9,140.4,0.5287,375,/
+2025-12-06,google,cpc,remarketing_gdn,tablet,71,63,31,269,3.8,135.6,0.5435,71,/
+2025-12-06,google,organic,(not set),desktop,245,208,94,1175,4.8,171.5,0.4327,245,/
+2025-12-06,google,organic,(not set),mobile,175,149,70,794,4.54,145.3,0.4686,175,/
 2025-12-07,direct,(none),(not set),desktop,91,78,12,410,4.51,179.6,0.3956,91,/
 2025-12-07,direct,(none),(not set),mobile,58,50,8,243,4.19,147.1,0.4655,58,/
-2025-12-08,facebook,cpc,remarketing_campaign,desktop,461,402,189,2416,5.24,187.2,0.4251,461,/
-2025-12-08,facebook,cpc,remarketing_campaign,mobile,315,279,135,1449,4.60,151.8,0.4873,315,/
-2025-12-08,facebook,cpc,remarketing_campaign,tablet,56,49,24,251,4.48,145.3,0.5000,56,/
-2025-12-08,google,organic,(not set),desktop,236,200,90,1132,4.80,168.4,0.4364,236,/
-2025-12-08,google,organic,(not set),mobile,168,144,68,762,4.54,142.9,0.4732,168,/
+2025-12-07,facebook,cpc,remarketing_campaign,desktop,473,412,194,2479,5.24,189.7,0.4227,473,/
+2025-12-07,facebook,cpc,remarketing_campaign,mobile,323,286,139,1486,4.6,153.6,0.4861,323,/
+2025-12-07,facebook,cpc,remarketing_campaign,tablet,57,50,24,256,4.49,146.8,0.4912,57,/
+2025-12-07,google,cpc,remarketing_gdn,desktop,525,456,220,2362,4.5,158.9,0.4767,525,/
+2025-12-07,google,cpc,remarketing_gdn,mobile,363,319,159,1415,3.9,129.6,0.5148,363,/
+2025-12-07,google,cpc,remarketing_gdn,tablet,68,60,30,258,3.8,137.4,0.5388,68,/
+2025-12-07,google,organic,(not set),desktop,240,204,92,1152,4.8,170.1,0.4333,240,/
+2025-12-07,google,organic,(not set),mobile,171,146,69,776,4.54,144.2,0.4708,171,/
 2025-12-08,direct,(none),(not set),desktop,89,77,12,401,4.51,177.8,0.3933,89,/
 2025-12-08,direct,(none),(not set),mobile,57,49,8,239,4.19,145.6,0.4649,57,/
-2025-12-09,facebook,cpc,remarketing_campaign,desktop,476,415,195,2495,5.24,190.1,0.4223,476,/
-2025-12-09,facebook,cpc,remarketing_campaign,mobile,325,288,140,1495,4.60,154.1,0.4862,325,/
-2025-12-09,facebook,cpc,remarketing_campaign,tablet,58,51,24,261,4.50,147.2,0.4914,58,/
-2025-12-09,google,organic,(not set),desktop,242,206,93,1162,4.80,170.8,0.4339,242,/
-2025-12-09,google,organic,(not set),mobile,173,148,70,785,4.54,144.9,0.4699,173,/
-2025-12-09,direct,(none),(not set),desktop,92,79,12,414,4.50,180.1,0.3913,92,/
+2025-12-08,facebook,cpc,remarketing_campaign,desktop,461,402,189,2416,5.24,187.2,0.4251,461,/
+2025-12-08,facebook,cpc,remarketing_campaign,mobile,315,279,135,1449,4.6,151.8,0.4873,315,/
+2025-12-08,facebook,cpc,remarketing_campaign,tablet,56,49,24,251,4.48,145.3,0.5,56,/
+2025-12-08,google,cpc,remarketing_gdn,desktop,513,446,215,2308,4.5,170.5,0.492,513,/
+2025-12-08,google,cpc,remarketing_gdn,mobile,354,311,155,1380,3.9,130.1,0.5368,354,/
+2025-12-08,google,cpc,remarketing_gdn,tablet,67,59,30,254,3.8,121.0,0.5503,67,/
+2025-12-08,google,organic,(not set),desktop,236,200,90,1132,4.8,168.4,0.4364,236,/
+2025-12-08,google,organic,(not set),mobile,168,144,68,762,4.54,142.9,0.4732,168,/
+2025-12-09,direct,(none),(not set),desktop,92,79,12,414,4.5,180.1,0.3913,92,/
 2025-12-09,direct,(none),(not set),mobile,58,50,8,243,4.19,147.4,0.4655,58,/
-2025-12-10,facebook,cpc,remarketing_campaign,desktop,634,553,260,3322,5.24,198.7,0.4101,634,/
-2025-12-10,facebook,cpc,remarketing_campaign,mobile,433,383,186,1993,4.60,162.4,0.4734,433,/
-2025-12-10,facebook,cpc,remarketing_campaign,tablet,77,68,33,346,4.49,154.2,0.4805,77,/
-2025-12-10,facebook,cpc,Sale_Promotion,desktop,1456,1289,812,8736,6.00,245.3,0.3230,1456,/sale
-2025-12-10,facebook,cpc,Sale_Promotion,mobile,998,884,557,5388,5.40,198.7,0.3847,998,/sale
-2025-12-10,facebook,cpc,Sale_Promotion,tablet,179,158,100,895,5.00,178.4,0.4246,179,/sale
-2025-12-10,google,cpc,Sale_Search,desktop,1534,1356,856,9204,6.00,252.1,0.3165,1534,/
-2025-12-10,google,cpc,Sale_Search,mobile,1051,930,587,5675,5.40,203.4,0.3787,1051,/
-2025-12-10,google,cpc,Sale_Search,tablet,189,167,105,945,5.00,182.6,0.4180,189,/
-2025-12-10,google,organic,(not set),desktop,312,265,119,1498,4.80,176.3,0.4231,312,/
-2025-12-10,google,organic,(not set),mobile,223,190,89,1012,4.54,149.7,0.4619,223,/
-2025-12-10,direct,(none),(not set),desktop,118,101,16,531,4.50,186.2,0.3814,118,/
+2025-12-09,facebook,cpc,remarketing_campaign,desktop,476,415,195,2495,5.24,190.1,0.4223,476,/
+2025-12-09,facebook,cpc,remarketing_campaign,mobile,325,288,140,1495,4.6,154.1,0.4862,325,/
+2025-12-09,facebook,cpc,remarketing_campaign,tablet,58,51,24,261,4.5,147.2,0.4914,58,/
+2025-12-09,google,cpc,remarketing_gdn,desktop,531,461,223,2389,4.5,174.2,0.4689,531,/
+2025-12-09,google,cpc,remarketing_gdn,mobile,367,322,161,1431,3.9,137.2,0.5405,367,/
+2025-12-09,google,cpc,remarketing_gdn,tablet,69,61,31,262,3.8,124.5,0.5468,69,/
+2025-12-09,google,organic,(not set),desktop,242,206,93,1162,4.8,170.8,0.4339,242,/
+2025-12-09,google,organic,(not set),mobile,173,148,70,785,4.54,144.9,0.4699,173,/
+2025-12-10,direct,(none),(not set),desktop,118,101,16,531,4.5,186.2,0.3814,118,/
 2025-12-10,direct,(none),(not set),mobile,75,64,10,314,4.19,152.8,0.4533,75,/
-2025-12-11,facebook,cpc,remarketing_campaign,desktop,647,564,265,3391,5.24,200.1,0.4082,647,/
-2025-12-11,facebook,cpc,remarketing_campaign,mobile,442,391,190,2034,4.60,163.8,0.4729,442,/
-2025-12-11,facebook,cpc,remarketing_campaign,tablet,79,69,33,355,4.49,155.6,0.4810,79,/
-2025-12-11,facebook,cpc,Sale_Promotion,desktop,1489,1318,831,8934,6.00,247.8,0.3201,1489,/sale
-2025-12-11,facebook,cpc,Sale_Promotion,mobile,1020,903,569,5508,5.40,200.4,0.3824,1020,/sale
-2025-12-11,facebook,cpc,Sale_Promotion,tablet,183,162,102,915,5.00,180.1,0.4208,183,/sale
-2025-12-11,google,cpc,sale_search,desktop,1571,1389,876,9426,6.00,254.3,0.3148,1571,/
-2025-12-11,google,cpc,sale_search,mobile,1076,952,600,5810,5.40,205.1,0.3771,1076,/
-2025-12-11,google,cpc,sale_search,tablet,193,171,108,965,5.00,184.2,0.4145,193,/
-2025-12-11,google,organic,(not set),desktop,319,271,122,1531,4.80,178.1,0.4201,319,/
-2025-12-11,google,organic,(not set),mobile,228,194,91,1035,4.54,151.2,0.4605,228,/
-2025-12-11,direct,(none),(not set),desktop,121,103,16,545,4.50,187.9,0.3802,121,/
+2025-12-10,facebook,cpc,Sale_Promotion,desktop,1456,1289,812,8736,6.0,245.3,0.323,1456,/sale
+2025-12-10,facebook,cpc,Sale_Promotion,mobile,998,884,557,5388,5.4,198.7,0.3847,998,/sale
+2025-12-10,facebook,cpc,Sale_Promotion,tablet,179,158,100,895,5.0,178.4,0.4246,179,/sale
+2025-12-10,facebook,cpc,remarketing_campaign,desktop,634,553,260,3322,5.24,198.7,0.4101,634,/
+2025-12-10,facebook,cpc,remarketing_campaign,mobile,433,383,186,1993,4.6,162.4,0.4734,433,/
+2025-12-10,facebook,cpc,remarketing_campaign,tablet,77,68,33,346,4.49,154.2,0.4805,77,/
+2025-12-10,google,cpc,Sale_Search,desktop,1534,1356,856,9204,6.0,252.1,0.3165,1534,/
+2025-12-10,google,cpc,Sale_Search,mobile,1051,930,587,5675,5.4,203.4,0.3787,1051,/
+2025-12-10,google,cpc,Sale_Search,tablet,189,167,105,945,5.0,182.6,0.418,189,/
+2025-12-10,google,cpc,remarketing_gdn,desktop,708,615,297,3186,4.5,161.3,0.4992,708,/
+2025-12-10,google,cpc,remarketing_gdn,mobile,489,430,215,1907,3.9,130.7,0.5311,489,/
+2025-12-10,google,cpc,remarketing_gdn,tablet,92,81,41,349,3.8,125.8,0.5551,92,/
+2025-12-10,google,organic,(not set),desktop,312,265,119,1498,4.8,176.3,0.4231,312,/
+2025-12-10,google,organic,(not set),mobile,223,190,89,1012,4.54,149.7,0.4619,223,/
+2025-12-11,direct,(none),(not set),desktop,121,103,16,545,4.5,187.9,0.3802,121,/
 2025-12-11,direct,(none),(not set),mobile,76,65,10,318,4.18,154.1,0.4605,76,/
-2025-12-12,facebook,cpc,remarketing_campaign,desktop,663,578,272,3475,5.24,201.8,0.4072,663,/
-2025-12-12,facebook,cpc,remarketing_campaign,mobile,453,401,195,2084,4.60,165.1,0.4724,453,/
-2025-12-12,facebook,cpc,remarketing_campaign,tablet,81,71,34,364,4.49,156.9,0.4815,81,/
-2025-12-12,facebook,cpc,Sale_Promotion,desktop,1523,1348,850,9138,6.00,250.4,0.3184,1523,/sale
-2025-12-12,facebook,cpc,Sale_Promotion,mobile,1043,923,582,5634,5.40,202.1,0.3808,1043,/sale
-2025-12-12,facebook,cpc,Sale_Promotion,tablet,187,166,105,935,5.00,181.7,0.4171,187,/sale
-2025-12-12,google,cpc,sale_search,desktop,1609,1423,897,9654,6.00,256.8,0.3132,1609,/
-2025-12-12,google,cpc,sale_search,mobile,1102,975,614,5951,5.40,207.1,0.3757,1102,/
-2025-12-12,google,cpc,sale_search,tablet,198,175,110,990,5.00,186.1,0.4141,198,/
-2025-12-12,google,organic,(not set),desktop,326,277,125,1565,4.80,179.8,0.4172,326,/
-2025-12-12,google,organic,(not set),mobile,233,198,93,1058,4.54,152.7,0.4592,233,/
-2025-12-12,direct,(none),(not set),desktop,124,106,17,558,4.50,189.6,0.3790,124,/
+2025-12-11,facebook,cpc,Sale_Promotion,desktop,1489,1318,831,8934,6.0,247.8,0.3201,1489,/sale
+2025-12-11,facebook,cpc,Sale_Promotion,mobile,1020,903,569,5508,5.4,200.4,0.3824,1020,/sale
+2025-12-11,facebook,cpc,Sale_Promotion,tablet,183,162,102,915,5.0,180.1,0.4208,183,/sale
+2025-12-11,facebook,cpc,remarketing_campaign,desktop,647,564,265,3391,5.24,200.1,0.4082,647,/
+2025-12-11,facebook,cpc,remarketing_campaign,mobile,442,391,190,2034,4.6,163.8,0.4729,442,/
+2025-12-11,facebook,cpc,remarketing_campaign,tablet,79,69,33,355,4.49,155.6,0.481,79,/
+2025-12-11,google,cpc,remarketing_gdn,desktop,724,629,304,3258,4.5,162.3,0.4735,724,/
+2025-12-11,google,cpc,remarketing_gdn,mobile,500,440,220,1950,3.9,134.9,0.5448,500,/
+2025-12-11,google,cpc,remarketing_gdn,tablet,93,82,41,353,3.8,123.1,0.52,93,/
+2025-12-11,google,cpc,sale_search,desktop,1571,1389,876,9426,6.0,254.3,0.3148,1571,/
+2025-12-11,google,cpc,sale_search,mobile,1076,952,600,5810,5.4,205.1,0.3771,1076,/
+2025-12-11,google,cpc,sale_search,tablet,193,171,108,965,5.0,184.2,0.4145,193,/
+2025-12-11,google,organic,(not set),desktop,319,271,122,1531,4.8,178.1,0.4201,319,/
+2025-12-11,google,organic,(not set),mobile,228,194,91,1035,4.54,151.2,0.4605,228,/
+2025-12-12,direct,(none),(not set),desktop,124,106,17,558,4.5,189.6,0.379,124,/
 2025-12-12,direct,(none),(not set),mobile,78,67,11,327,4.19,155.4,0.4487,78,/
-2025-12-13,facebook,cpc,remarketing_campaign,desktop,651,568,267,3411,5.24,200.9,0.4078,651,/
-2025-12-13,facebook,cpc,remarketing_campaign,mobile,445,394,192,2047,4.60,164.3,0.4730,445,/
-2025-12-13,facebook,cpc,remarketing_campaign,tablet,79,70,34,355,4.49,156.1,0.4810,79,/
-2025-12-13,facebook,cpc,Sale_Promotion,desktop,1478,1308,825,8868,6.00,248.9,0.3195,1478,/sale
-2025-12-13,facebook,cpc,Sale_Promotion,mobile,1012,896,565,5465,5.40,201.2,0.3814,1012,/sale
-2025-12-13,facebook,cpc,Sale_Promotion,tablet,182,161,101,910,5.00,180.9,0.4231,182,/sale
-2025-12-13,google,cpc,sale_search,desktop,1560,1380,870,9360,6.00,255.6,0.3141,1560,/
-2025-12-13,google,cpc,sale_search,mobile,1068,945,596,5767,5.40,206.2,0.3764,1068,/
-2025-12-13,google,cpc,sale_search,tablet,192,170,107,960,5.00,185.3,0.4167,192,/
-2025-12-13,google,organic,(not set),desktop,321,273,123,1541,4.80,178.9,0.4206,321,/
-2025-12-13,google,organic,(not set),mobile,229,195,92,1040,4.54,152.1,0.4607,229,/
-2025-12-13,direct,(none),(not set),desktop,122,104,16,549,4.50,188.7,0.3803,122,/
+2025-12-12,facebook,cpc,Sale_Promotion,desktop,1523,1348,850,9138,6.0,250.4,0.3184,1523,/sale
+2025-12-12,facebook,cpc,Sale_Promotion,mobile,1043,923,582,5634,5.4,202.1,0.3808,1043,/sale
+2025-12-12,facebook,cpc,Sale_Promotion,tablet,187,166,105,935,5.0,181.7,0.4171,187,/sale
+2025-12-12,facebook,cpc,remarketing_campaign,desktop,663,578,272,3475,5.24,201.8,0.4072,663,/
+2025-12-12,facebook,cpc,remarketing_campaign,mobile,453,401,195,2084,4.6,165.1,0.4724,453,/
+2025-12-12,facebook,cpc,remarketing_campaign,tablet,81,71,34,364,4.49,156.9,0.4815,81,/
+2025-12-12,google,cpc,remarketing_gdn,desktop,739,642,310,3325,4.5,166.1,0.4727,739,/
+2025-12-12,google,cpc,remarketing_gdn,mobile,511,449,224,1992,3.9,130.7,0.539,511,/
+2025-12-12,google,cpc,remarketing_gdn,tablet,95,84,42,361,3.8,121.8,0.5491,95,/
+2025-12-12,google,cpc,sale_search,desktop,1609,1423,897,9654,6.0,256.8,0.3132,1609,/
+2025-12-12,google,cpc,sale_search,mobile,1102,975,614,5951,5.4,207.1,0.3757,1102,/
+2025-12-12,google,cpc,sale_search,tablet,198,175,110,990,5.0,186.1,0.4141,198,/
+2025-12-12,google,organic,(not set),desktop,326,277,125,1565,4.8,179.8,0.4172,326,/
+2025-12-12,google,organic,(not set),mobile,233,198,93,1058,4.54,152.7,0.4592,233,/
+2025-12-13,direct,(none),(not set),desktop,122,104,16,549,4.5,188.7,0.3803,122,/
 2025-12-13,direct,(none),(not set),mobile,77,66,10,323,4.19,154.8,0.4545,77,/
+2025-12-13,facebook,cpc,Sale_Promotion,desktop,1478,1308,825,8868,6.0,248.9,0.3195,1478,/sale
+2025-12-13,facebook,cpc,Sale_Promotion,mobile,1012,896,565,5465,5.4,201.2,0.3814,1012,/sale
+2025-12-13,facebook,cpc,Sale_Promotion,tablet,182,161,101,910,5.0,180.9,0.4231,182,/sale
+2025-12-13,facebook,cpc,remarketing_campaign,desktop,651,568,267,3411,5.24,200.9,0.4078,651,/
+2025-12-13,facebook,cpc,remarketing_campaign,mobile,445,394,192,2047,4.6,164.3,0.473,445,/
+2025-12-13,facebook,cpc,remarketing_campaign,tablet,79,70,34,355,4.49,156.1,0.481,79,/
+2025-12-13,google,cpc,remarketing_gdn,desktop,728,633,305,3276,4.5,157.1,0.4838,728,/
+2025-12-13,google,cpc,remarketing_gdn,mobile,503,442,221,1961,3.9,135.5,0.5391,503,/
+2025-12-13,google,cpc,remarketing_gdn,tablet,93,82,41,353,3.8,120.9,0.5544,93,/
+2025-12-13,google,cpc,sale_search,desktop,1560,1380,870,9360,6.0,255.6,0.3141,1560,/
+2025-12-13,google,cpc,sale_search,mobile,1068,945,596,5767,5.4,206.2,0.3764,1068,/
+2025-12-13,google,cpc,sale_search,tablet,192,170,107,960,5.0,185.3,0.4167,192,/
+2025-12-13,google,organic,(not set),desktop,321,273,123,1541,4.8,178.9,0.4206,321,/
+2025-12-13,google,organic,(not set),mobile,229,195,92,1040,4.54,152.1,0.4607,229,/
+2025-12-14,direct,(none),(not set),desktop,126,108,17,567,4.5,191.3,0.3778,126,/
+2025-12-14,direct,(none),(not set),mobile,80,68,11,335,4.19,156.8,0.45,80,/
+2025-12-14,facebook,cpc,Sale_Promotion,desktop,1556,1377,868,9336,6.0,252.1,0.3168,1556,/sale
+2025-12-14,facebook,cpc,Sale_Promotion,mobile,1066,943,595,5756,5.4,203.4,0.3792,1066,/sale
+2025-12-14,facebook,cpc,Sale_Promotion,tablet,191,169,107,955,5.0,182.6,0.4136,191,/sale
 2025-12-14,facebook,cpc,remarketing_campaign,desktop,678,591,278,3553,5.24,203.4,0.4057,678,/
-2025-12-14,facebook,cpc,remarketing_campaign,mobile,463,410,199,2130,4.60,166.3,0.4708,463,/
+2025-12-14,facebook,cpc,remarketing_campaign,mobile,463,410,199,2130,4.6,166.3,0.4708,463,/
 2025-12-14,facebook,cpc,remarketing_campaign,tablet,83,73,35,373,4.49,158.1,0.4819,83,/
-2025-12-14,facebook,cpc,Sale_Promotion,desktop,1556,1377,868,9336,6.00,252.1,0.3168,1556,/sale
-2025-12-14,facebook,cpc,Sale_Promotion,mobile,1066,943,595,5756,5.40,203.4,0.3792,1066,/sale
-2025-12-14,facebook,cpc,Sale_Promotion,tablet,191,169,107,955,5.00,182.6,0.4136,191,/sale
-2025-12-14,google,cpc,sale_search,desktop,1641,1452,916,9846,6.00,258.9,0.3119,1641,/
-2025-12-14,google,cpc,sale_search,mobile,1124,994,627,6070,5.40,208.7,0.3745,1124,/
-2025-12-14,google,cpc,sale_search,tablet,202,179,113,1010,5.00,187.5,0.4108,202,/
-2025-12-14,google,organic,(not set),desktop,333,283,128,1598,4.80,181.2,0.4144,333,/
-2025-12-14,google,organic,(not set),mobile,238,202,95,1080,4.54,154.1,0.4580,238,/
-2025-12-14,direct,(none),(not set),desktop,126,108,17,567,4.50,191.3,0.3778,126,/
-2025-12-14,direct,(none),(not set),mobile,80,68,11,335,4.19,156.8,0.4500,80,/
-2025-12-15,facebook,cpc,remarketing_campaign,desktop,662,577,272,3469,5.24,201.6,0.4073,662,/
-2025-12-15,facebook,cpc,remarketing_campaign,mobile,453,401,195,2084,4.60,165.0,0.4724,453,/
-2025-12-15,facebook,cpc,remarketing_campaign,tablet,81,71,34,364,4.49,156.8,0.4815,81,/
-2025-12-15,facebook,cpc,Sale_Promotion,desktop,1504,1331,839,9024,6.00,249.7,0.3179,1504,/sale
-2025-12-15,facebook,cpc,Sale_Promotion,mobile,1030,911,575,5562,5.40,201.6,0.3806,1030,/sale
-2025-12-15,facebook,cpc,Sale_Promotion,tablet,185,164,103,925,5.00,181.2,0.4162,185,/sale
-2025-12-15,google,cpc,sale_search,desktop,1586,1403,885,9516,6.00,256.2,0.3136,1586,/
-2025-12-15,google,cpc,sale_search,mobile,1086,961,606,5864,5.40,206.7,0.3760,1086,/
-2025-12-15,google,cpc,sale_search,tablet,195,172,109,975,5.00,185.8,0.4154,195,/
-2025-12-15,google,organic,(not set),desktop,324,275,124,1555,4.80,179.4,0.4185,324,/
-2025-12-15,google,organic,(not set),mobile,232,197,93,1053,4.54,152.4,0.4595,232,/
-2025-12-15,direct,(none),(not set),desktop,123,105,17,554,4.50,189.2,0.3797,123,/
+2025-12-14,google,cpc,remarketing_gdn,desktop,755,656,317,3397,4.5,161.6,0.4977,755,/
+2025-12-14,google,cpc,remarketing_gdn,mobile,521,458,229,2031,3.9,139.6,0.5232,521,/
+2025-12-14,google,cpc,remarketing_gdn,tablet,97,86,43,368,3.8,121.1,0.5489,97,/
+2025-12-14,google,cpc,sale_search,desktop,1641,1452,916,9846,6.0,258.9,0.3119,1641,/
+2025-12-14,google,cpc,sale_search,mobile,1124,994,627,6070,5.4,208.7,0.3745,1124,/
+2025-12-14,google,cpc,sale_search,tablet,202,179,113,1010,5.0,187.5,0.4108,202,/
+2025-12-14,google,organic,(not set),desktop,333,283,128,1598,4.8,181.2,0.4144,333,/
+2025-12-14,google,organic,(not set),mobile,238,202,95,1080,4.54,154.1,0.458,238,/
+2025-12-15,direct,(none),(not set),desktop,123,105,17,554,4.5,189.2,0.3797,123,/
 2025-12-15,direct,(none),(not set),mobile,78,67,11,327,4.19,155.1,0.4487,78,/
+2025-12-15,facebook,cpc,Sale_Promotion,desktop,1504,1331,839,9024,6.0,249.7,0.3179,1504,/sale
+2025-12-15,facebook,cpc,Sale_Promotion,mobile,1030,911,575,5562,5.4,201.6,0.3806,1030,/sale
+2025-12-15,facebook,cpc,Sale_Promotion,tablet,185,164,103,925,5.0,181.2,0.4162,185,/sale
+2025-12-15,facebook,cpc,remarketing_campaign,desktop,662,577,272,3469,5.24,201.6,0.4073,662,/
+2025-12-15,facebook,cpc,remarketing_campaign,mobile,453,401,195,2084,4.6,165.0,0.4724,453,/
+2025-12-15,facebook,cpc,remarketing_campaign,tablet,81,71,34,364,4.49,156.8,0.4815,81,/
+2025-12-15,google,cpc,remarketing_gdn,desktop,741,644,311,3334,4.5,159.0,0.4617,741,/
+2025-12-15,google,cpc,remarketing_gdn,mobile,512,450,225,1996,3.9,142.3,0.5435,512,/
+2025-12-15,google,cpc,remarketing_gdn,tablet,96,85,43,364,3.8,124.6,0.5526,96,/
+2025-12-15,google,cpc,sale_search,desktop,1586,1403,885,9516,6.0,256.2,0.3136,1586,/
+2025-12-15,google,cpc,sale_search,mobile,1086,961,606,5864,5.4,206.7,0.376,1086,/
+2025-12-15,google,cpc,sale_search,tablet,195,172,109,975,5.0,185.8,0.4154,195,/
+2025-12-15,google,organic,(not set),desktop,324,275,124,1555,4.8,179.4,0.4185,324,/
+2025-12-15,google,organic,(not set),mobile,232,197,93,1053,4.54,152.4,0.4595,232,/
+2025-12-16,direct,(none),(not set),desktop,127,109,17,572,4.5,192.1,0.378,127,/
+2025-12-16,direct,(none),(not set),mobile,80,69,11,335,4.19,157.3,0.45,80,/
+2025-12-16,facebook,cpc,Sale_Promotion,desktop,1567,1387,875,9402,6.0,252.8,0.3164,1567,/sale
+2025-12-16,facebook,cpc,Sale_Promotion,mobile,1074,950,599,5800,5.4,203.9,0.3789,1074,/sale
+2025-12-16,facebook,cpc,Sale_Promotion,tablet,193,171,108,965,5.0,183.1,0.4145,193,/sale
 2025-12-16,facebook,cpc,remarketing_campaign,desktop,680,593,279,3564,5.24,203.7,0.4059,680,/
-2025-12-16,facebook,cpc,remarketing_campaign,mobile,465,411,200,2139,4.60,166.6,0.4710,465,/
+2025-12-16,facebook,cpc,remarketing_campaign,mobile,465,411,200,2139,4.6,166.6,0.471,465,/
 2025-12-16,facebook,cpc,remarketing_campaign,tablet,83,73,35,373,4.49,158.3,0.4819,83,/
-2025-12-16,facebook,cpc,Sale_Promotion,desktop,1567,1387,875,9402,6.00,252.8,0.3164,1567,/sale
-2025-12-16,facebook,cpc,Sale_Promotion,mobile,1074,950,599,5800,5.40,203.9,0.3789,1074,/sale
-2025-12-16,facebook,cpc,Sale_Promotion,tablet,193,171,108,965,5.00,183.1,0.4145,193,/sale
-2025-12-16,google,cpc,sale_search,desktop,1656,1465,924,9936,6.00,259.8,0.3116,1656,/
-2025-12-16,google,cpc,sale_search,mobile,1134,1003,633,6124,5.40,209.5,0.3741,1134,/
-2025-12-16,google,cpc,sale_search,tablet,204,180,114,1020,5.00,188.2,0.4118,204,/
-2025-12-16,google,organic,(not set),desktop,335,285,129,1608,4.80,181.9,0.4149,335,/
+2025-12-16,google,cpc,remarketing_gdn,desktop,760,661,319,3420,4.5,161.5,0.4665,760,/
+2025-12-16,google,cpc,remarketing_gdn,mobile,525,462,231,2047,3.9,131.5,0.5409,525,/
+2025-12-16,google,cpc,remarketing_gdn,tablet,97,86,43,368,3.8,139.8,0.5419,97,/
+2025-12-16,google,cpc,sale_search,desktop,1656,1465,924,9936,6.0,259.8,0.3116,1656,/
+2025-12-16,google,cpc,sale_search,mobile,1134,1003,633,6124,5.4,209.5,0.3741,1134,/
+2025-12-16,google,cpc,sale_search,tablet,204,180,114,1020,5.0,188.2,0.4118,204,/
+2025-12-16,google,organic,(not set),desktop,335,285,129,1608,4.8,181.9,0.4149,335,/
 2025-12-16,google,organic,(not set),mobile,239,203,96,1084,4.54,154.6,0.4581,239,/
-2025-12-16,direct,(none),(not set),desktop,127,109,17,572,4.50,192.1,0.3780,127,/
-2025-12-16,direct,(none),(not set),mobile,80,69,11,335,4.19,157.3,0.4500,80,/
-2025-12-17,facebook,cpc,remarketing_campaign,desktop,658,574,270,3448,5.24,201.2,0.4074,658,/
-2025-12-17,facebook,cpc,remarketing_campaign,mobile,450,398,193,2070,4.60,164.6,0.4733,450,/
-2025-12-17,facebook,cpc,remarketing_campaign,tablet,80,71,34,360,4.50,156.4,0.4813,80,/
-2025-12-17,facebook,cpc,Sale_Promotion,desktop,1456,1289,812,8736,6.00,245.3,0.3230,1456,/sale
-2025-12-17,facebook,cpc,Sale_Promotion,mobile,998,883,557,5388,5.40,198.7,0.3847,998,/sale
-2025-12-17,facebook,cpc,Sale_Promotion,tablet,179,158,100,895,5.00,178.4,0.4246,179,/sale
-2025-12-17,google,cpc,sale_search,desktop,1534,1357,856,9204,6.00,252.1,0.3165,1534,/
-2025-12-17,google,cpc,sale_search,mobile,1051,930,587,5675,5.40,203.4,0.3787,1051,/
-2025-12-17,google,cpc,sale_search,tablet,189,167,105,945,5.00,182.6,0.4180,189,/
-2025-12-17,google,organic,(not set),desktop,329,280,126,1579,4.80,180.5,0.4165,329,/
-2025-12-17,google,organic,(not set),mobile,235,200,94,1067,4.54,153.4,0.4596,235,/
-2025-12-17,direct,(none),(not set),desktop,125,107,17,563,4.50,190.3,0.3784,125,/
+2025-12-17,direct,(none),(not set),desktop,125,107,17,563,4.5,190.3,0.3784,125,/
 2025-12-17,direct,(none),(not set),mobile,79,68,11,331,4.19,156.1,0.4557,79,/
-2025-12-18,facebook,cpc,remarketing_campaign,desktop,491,428,201,2573,5.24,192.8,0.4195,491,/
-2025-12-18,facebook,cpc,remarketing_campaign,mobile,336,297,144,1546,4.60,157.4,0.4851,336,/
-2025-12-18,facebook,cpc,remarketing_campaign,tablet,60,53,25,270,4.50,149.8,0.4917,60,/
-2025-12-18,google,organic,(not set),desktop,247,210,95,1186,4.80,172.3,0.4332,247,/
-2025-12-18,google,organic,(not set),mobile,176,150,71,799,4.54,146.2,0.4705,176,/
-2025-12-18,direct,(none),(not set),desktop,94,81,13,423,4.50,181.7,0.3936,94,/
+2025-12-17,facebook,cpc,Sale_Promotion,desktop,1456,1289,812,8736,6.0,245.3,0.323,1456,/sale
+2025-12-17,facebook,cpc,Sale_Promotion,mobile,998,883,557,5388,5.4,198.7,0.3847,998,/sale
+2025-12-17,facebook,cpc,Sale_Promotion,tablet,179,158,100,895,5.0,178.4,0.4246,179,/sale
+2025-12-17,facebook,cpc,remarketing_campaign,desktop,658,574,270,3448,5.24,201.2,0.4074,658,/
+2025-12-17,facebook,cpc,remarketing_campaign,mobile,450,398,193,2070,4.6,164.6,0.4733,450,/
+2025-12-17,facebook,cpc,remarketing_campaign,tablet,80,71,34,360,4.5,156.4,0.4813,80,/
+2025-12-17,google,cpc,remarketing_gdn,desktop,735,639,308,3307,4.5,169.6,0.4866,735,/
+2025-12-17,google,cpc,remarketing_gdn,mobile,508,447,223,1981,3.9,137.6,0.5302,508,/
+2025-12-17,google,cpc,remarketing_gdn,tablet,94,83,42,357,3.8,122.4,0.551,94,/
+2025-12-17,google,cpc,sale_search,desktop,1534,1357,856,9204,6.0,252.1,0.3165,1534,/
+2025-12-17,google,cpc,sale_search,mobile,1051,930,587,5675,5.4,203.4,0.3787,1051,/
+2025-12-17,google,cpc,sale_search,tablet,189,167,105,945,5.0,182.6,0.418,189,/
+2025-12-17,google,organic,(not set),desktop,329,280,126,1579,4.8,180.5,0.4165,329,/
+2025-12-17,google,organic,(not set),mobile,235,200,94,1067,4.54,153.4,0.4596,235,/
+2025-12-18,direct,(none),(not set),desktop,94,81,13,423,4.5,181.7,0.3936,94,/
 2025-12-18,direct,(none),(not set),mobile,59,51,8,247,4.19,148.9,0.4576,59,/
-2025-12-19,facebook,cpc,remarketing_campaign,desktop,475,414,195,2489,5.24,191.2,0.4211,475,/
-2025-12-19,facebook,cpc,remarketing_campaign,mobile,325,287,139,1495,4.60,156.2,0.4862,325,/
-2025-12-19,facebook,cpc,remarketing_campaign,tablet,58,51,24,261,4.50,148.6,0.4914,58,/
-2025-12-19,google,organic,(not set),desktop,243,206,93,1166,4.80,171.1,0.4362,243,/
-2025-12-19,google,organic,(not set),mobile,174,148,70,789,4.54,145.3,0.4713,174,/
-2025-12-19,direct,(none),(not set),desktop,92,79,13,414,4.50,180.6,0.3913,92,/
+2025-12-18,facebook,cpc,remarketing_campaign,desktop,491,428,201,2573,5.24,192.8,0.4195,491,/
+2025-12-18,facebook,cpc,remarketing_campaign,mobile,336,297,144,1546,4.6,157.4,0.4851,336,/
+2025-12-18,facebook,cpc,remarketing_campaign,tablet,60,53,25,270,4.5,149.8,0.4917,60,/
+2025-12-18,google,cpc,remarketing_gdn,desktop,538,468,225,2421,4.5,159.3,0.4706,538,/
+2025-12-18,google,cpc,remarketing_gdn,mobile,372,327,163,1450,3.9,137.6,0.5242,372,/
+2025-12-18,google,cpc,remarketing_gdn,tablet,69,61,31,262,3.8,129.4,0.5272,69,/
+2025-12-18,google,organic,(not set),desktop,247,210,95,1186,4.8,172.3,0.4332,247,/
+2025-12-18,google,organic,(not set),mobile,176,150,71,799,4.54,146.2,0.4705,176,/
+2025-12-19,direct,(none),(not set),desktop,92,79,13,414,4.5,180.6,0.3913,92,/
 2025-12-19,direct,(none),(not set),mobile,58,50,8,243,4.19,147.8,0.4655,58,/
-2025-12-20,facebook,cpc,remarketing_campaign,desktop,498,434,204,2610,5.24,194.1,0.4176,498,/
-2025-12-20,facebook,cpc,remarketing_campaign,mobile,340,301,146,1564,4.60,158.6,0.4838,340,/
-2025-12-20,facebook,cpc,remarketing_campaign,tablet,60,53,26,270,4.50,150.9,0.4917,60,/
-2025-12-20,google,organic,(not set),desktop,251,213,96,1205,4.80,173.8,0.4303,251,/
-2025-12-20,google,organic,(not set),mobile,179,153,72,812,4.54,147.5,0.4693,179,/
+2025-12-19,facebook,cpc,remarketing_campaign,desktop,475,414,195,2489,5.24,191.2,0.4211,475,/
+2025-12-19,facebook,cpc,remarketing_campaign,mobile,325,287,139,1495,4.6,156.2,0.4862,325,/
+2025-12-19,facebook,cpc,remarketing_campaign,tablet,58,51,24,261,4.5,148.6,0.4914,58,/
+2025-12-19,google,cpc,remarketing_gdn,desktop,519,451,217,2335,4.5,167.1,0.4937,519,/
+2025-12-19,google,cpc,remarketing_gdn,mobile,359,315,157,1400,3.9,126.4,0.5296,359,/
+2025-12-19,google,cpc,remarketing_gdn,tablet,67,59,30,254,3.8,138.9,0.5206,67,/
+2025-12-19,google,organic,(not set),desktop,243,206,93,1166,4.8,171.1,0.4362,243,/
+2025-12-19,google,organic,(not set),mobile,174,148,70,789,4.54,145.3,0.4713,174,/
 2025-12-20,direct,(none),(not set),desktop,95,82,13,428,4.51,183.2,0.3895,95,/
-2025-12-20,direct,(none),(not set),mobile,60,52,9,251,4.18,149.7,0.4500,60,/
-2025-12-21,facebook,cpc,remarketing_campaign,desktop,482,420,198,2526,5.24,192.4,0.4190,482,/
-2025-12-21,facebook,cpc,remarketing_campaign,mobile,330,292,141,1518,4.60,157.1,0.4848,330,/
-2025-12-21,facebook,cpc,remarketing_campaign,tablet,59,52,25,265,4.49,149.5,0.4915,59,/
-2025-12-21,google,organic,(not set),desktop,245,208,94,1176,4.80,172.6,0.4327,245,/
-2025-12-21,google,organic,(not set),mobile,175,149,71,794,4.54,146.4,0.4686,175,/
+2025-12-20,direct,(none),(not set),mobile,60,52,9,251,4.18,149.7,0.45,60,/
+2025-12-20,facebook,cpc,remarketing_campaign,desktop,498,434,204,2610,5.24,194.1,0.4176,498,/
+2025-12-20,facebook,cpc,remarketing_campaign,mobile,340,301,146,1564,4.6,158.6,0.4838,340,/
+2025-12-20,facebook,cpc,remarketing_campaign,tablet,60,53,26,270,4.5,150.9,0.4917,60,/
+2025-12-20,google,cpc,remarketing_gdn,desktop,546,475,229,2457,4.5,155.8,0.4909,546,/
+2025-12-20,google,cpc,remarketing_gdn,mobile,377,331,165,1470,3.9,140.6,0.5322,377,/
+2025-12-20,google,cpc,remarketing_gdn,tablet,70,62,31,266,3.8,128.4,0.5576,70,/
+2025-12-20,google,organic,(not set),desktop,251,213,96,1205,4.8,173.8,0.4303,251,/
+2025-12-20,google,organic,(not set),mobile,179,153,72,812,4.54,147.5,0.4693,179,/
 2025-12-21,direct,(none),(not set),desktop,93,80,13,419,4.51,181.9,0.3925,93,/
 2025-12-21,direct,(none),(not set),mobile,59,51,9,247,4.19,148.6,0.4576,59,/
-2025-12-22,facebook,cpc,remarketing_campaign,desktop,478,417,196,2506,5.24,191.8,0.4205,478,/
-2025-12-22,facebook,cpc,remarketing_campaign,mobile,327,289,140,1504,4.60,156.7,0.4862,327,/
-2025-12-22,facebook,cpc,remarketing_campaign,tablet,58,51,24,261,4.50,149.1,0.4914,58,/
-2025-12-22,google,organic,(not set),desktop,244,207,93,1171,4.80,172.1,0.4344,244,/
-2025-12-22,google,organic,(not set),mobile,174,148,70,789,4.54,146.0,0.4713,174,/
+2025-12-21,facebook,cpc,remarketing_campaign,desktop,482,420,198,2526,5.24,192.4,0.419,482,/
+2025-12-21,facebook,cpc,remarketing_campaign,mobile,330,292,141,1518,4.6,157.1,0.4848,330,/
+2025-12-21,facebook,cpc,remarketing_campaign,tablet,59,52,25,265,4.49,149.5,0.4915,59,/
+2025-12-21,google,cpc,remarketing_gdn,desktop,531,461,223,2389,4.5,158.0,0.4613,531,/
+2025-12-21,google,cpc,remarketing_gdn,mobile,367,322,161,1431,3.9,134.4,0.5464,367,/
+2025-12-21,google,cpc,remarketing_gdn,tablet,68,60,30,258,3.8,127.6,0.5212,68,/
+2025-12-21,google,organic,(not set),desktop,245,208,94,1176,4.8,172.6,0.4327,245,/
+2025-12-21,google,organic,(not set),mobile,175,149,71,794,4.54,146.4,0.4686,175,/
 2025-12-22,direct,(none),(not set),desktop,93,80,13,419,4.51,181.5,0.3925,93,/
 2025-12-22,direct,(none),(not set),mobile,59,51,9,247,4.19,148.3,0.4576,59,/
-2025-12-23,facebook,cpc,remarketing_campaign,desktop,464,405,191,2432,5.24,189.6,0.4245,464,/
-2025-12-23,facebook,cpc,remarketing_campaign,mobile,317,281,136,1458,4.60,155.0,0.4890,317,/
-2025-12-23,facebook,cpc,remarketing_campaign,tablet,56,50,24,252,4.50,147.4,0.4929,56,/
-2025-12-23,google,organic,(not set),desktop,237,201,91,1138,4.80,169.8,0.4367,237,/
-2025-12-23,google,organic,(not set),mobile,169,144,68,767,4.54,144.1,0.4734,169,/
-2025-12-23,direct,(none),(not set),desktop,90,77,12,405,4.50,179.2,0.3944,90,/
+2025-12-22,facebook,cpc,remarketing_campaign,desktop,478,417,196,2506,5.24,191.8,0.4205,478,/
+2025-12-22,facebook,cpc,remarketing_campaign,mobile,327,289,140,1504,4.6,156.7,0.4862,327,/
+2025-12-22,facebook,cpc,remarketing_campaign,tablet,58,51,24,261,4.5,149.1,0.4914,58,/
+2025-12-22,google,cpc,remarketing_gdn,desktop,523,455,219,2353,4.5,159.1,0.4696,523,/
+2025-12-22,google,cpc,remarketing_gdn,mobile,361,317,158,1407,3.9,125.3,0.5416,361,/
+2025-12-22,google,cpc,remarketing_gdn,tablet,68,60,30,258,3.8,126.6,0.5548,68,/
+2025-12-22,google,organic,(not set),desktop,244,207,93,1171,4.8,172.1,0.4344,244,/
+2025-12-22,google,organic,(not set),mobile,174,148,70,789,4.54,146.0,0.4713,174,/
+2025-12-23,direct,(none),(not set),desktop,90,77,12,405,4.5,179.2,0.3944,90,/
 2025-12-23,direct,(none),(not set),mobile,57,49,8,239,4.19,146.7,0.4649,57,/
-2025-12-24,facebook,cpc,remarketing_campaign,desktop,450,393,185,2358,5.24,188.1,0.4267,450,/
-2025-12-24,facebook,cpc,remarketing_campaign,mobile,308,272,132,1417,4.60,153.7,0.4903,308,/
-2025-12-24,facebook,cpc,remarketing_campaign,tablet,55,48,23,247,4.49,146.2,0.4909,55,/
-2025-12-24,google,organic,(not set),desktop,230,195,88,1104,4.80,168.2,0.4391,230,/
-2025-12-24,google,organic,(not set),mobile,164,140,66,744,4.54,142.8,0.4756,164,/
+2025-12-23,facebook,cpc,remarketing_campaign,desktop,464,405,191,2432,5.24,189.6,0.4245,464,/
+2025-12-23,facebook,cpc,remarketing_campaign,mobile,317,281,136,1458,4.6,155.0,0.489,317,/
+2025-12-23,facebook,cpc,remarketing_campaign,tablet,56,50,24,252,4.5,147.4,0.4929,56,/
+2025-12-23,google,cpc,remarketing_gdn,desktop,508,441,213,2286,4.5,170.5,0.4661,508,/
+2025-12-23,google,cpc,remarketing_gdn,mobile,351,308,154,1368,3.9,143.3,0.5186,351,/
+2025-12-23,google,cpc,remarketing_gdn,tablet,65,57,29,247,3.8,133.7,0.5345,65,/
+2025-12-23,google,organic,(not set),desktop,237,201,91,1138,4.8,169.8,0.4367,237,/
+2025-12-23,google,organic,(not set),mobile,169,144,68,767,4.54,144.1,0.4734,169,/
 2025-12-24,direct,(none),(not set),desktop,87,75,12,392,4.51,177.8,0.3966,87,/
-2025-12-24,direct,(none),(not set),mobile,56,48,8,235,4.20,145.6,0.4643,56,/
-2025-12-25,facebook,cpc,remarketing_campaign,desktop,398,347,163,2086,5.24,181.3,0.4397,398,/
-2025-12-25,facebook,cpc,remarketing_campaign,mobile,272,241,117,1251,4.60,148.2,0.5037,272,/
-2025-12-25,facebook,cpc,remarketing_campaign,tablet,49,43,21,220,4.49,141.1,0.5102,49,/
-2025-12-25,google,organic,(not set),desktop,203,172,78,974,4.80,163.4,0.4532,203,/
-2025-12-25,google,organic,(not set),mobile,145,124,58,658,4.54,138.7,0.4897,145,/
+2025-12-24,direct,(none),(not set),mobile,56,48,8,235,4.2,145.6,0.4643,56,/
+2025-12-24,facebook,cpc,remarketing_campaign,desktop,450,393,185,2358,5.24,188.1,0.4267,450,/
+2025-12-24,facebook,cpc,remarketing_campaign,mobile,308,272,132,1417,4.6,153.7,0.4903,308,/
+2025-12-24,facebook,cpc,remarketing_campaign,tablet,55,48,23,247,4.49,146.2,0.4909,55,/
+2025-12-24,google,cpc,remarketing_gdn,desktop,495,430,207,2227,4.5,173.1,0.4795,495,/
+2025-12-24,google,cpc,remarketing_gdn,mobile,342,300,150,1333,3.9,129.1,0.516,342,/
+2025-12-24,google,cpc,remarketing_gdn,tablet,64,56,28,243,3.8,126.5,0.5402,64,/
+2025-12-24,google,organic,(not set),desktop,230,195,88,1104,4.8,168.2,0.4391,230,/
+2025-12-24,google,organic,(not set),mobile,164,140,66,744,4.54,142.8,0.4756,164,/
 2025-12-25,direct,(none),(not set),desktop,77,66,11,347,4.51,172.1,0.4156,77,/
 2025-12-25,direct,(none),(not set),mobile,49,42,7,205,4.18,140.8,0.4898,49,/
-2025-12-26,facebook,cpc,remarketing_campaign,desktop,460,401,189,2410,5.24,189.1,0.4261,460,/
-2025-12-26,facebook,cpc,remarketing_campaign,mobile,315,278,135,1449,4.60,154.5,0.4889,315,/
-2025-12-26,facebook,cpc,remarketing_campaign,tablet,56,49,24,252,4.50,147.0,0.4929,56,/
-2025-12-26,google,organic,(not set),desktop,235,199,90,1128,4.80,169.3,0.4383,235,/
-2025-12-26,google,organic,(not set),mobile,168,143,68,762,4.54,143.7,0.4732,168,/
+2025-12-25,facebook,cpc,remarketing_campaign,desktop,398,347,163,2086,5.24,181.3,0.4397,398,/
+2025-12-25,facebook,cpc,remarketing_campaign,mobile,272,241,117,1251,4.6,148.2,0.5037,272,/
+2025-12-25,facebook,cpc,remarketing_campaign,tablet,49,43,21,220,4.49,141.1,0.5102,49,/
+2025-12-25,google,cpc,remarketing_gdn,desktop,440,382,184,1980,4.5,160.5,0.461,440,/
+2025-12-25,google,cpc,remarketing_gdn,mobile,304,267,133,1185,3.9,132.6,0.5443,304,/
+2025-12-25,google,cpc,remarketing_gdn,tablet,57,50,25,216,3.8,128.1,0.5354,57,/
+2025-12-25,google,organic,(not set),desktop,203,172,78,974,4.8,163.4,0.4532,203,/
+2025-12-25,google,organic,(not set),mobile,145,124,58,658,4.54,138.7,0.4897,145,/
 2025-12-26,direct,(none),(not set),desktop,89,77,12,401,4.51,178.6,0.3933,89,/
 2025-12-26,direct,(none),(not set),mobile,57,49,8,239,4.19,146.2,0.4649,57,/
-2025-12-27,facebook,cpc,remarketing_campaign,desktop,475,414,195,2489,5.24,191.2,0.4211,475,/
-2025-12-27,facebook,cpc,remarketing_campaign,mobile,325,287,139,1495,4.60,156.2,0.4862,325,/
-2025-12-27,facebook,cpc,remarketing_campaign,tablet,58,51,24,261,4.50,148.6,0.4914,58,/
-2025-12-27,google,organic,(not set),desktop,243,206,93,1166,4.80,171.1,0.4362,243,/
-2025-12-27,google,organic,(not set),mobile,174,148,70,789,4.54,145.3,0.4713,174,/
-2025-12-27,direct,(none),(not set),desktop,92,79,13,414,4.50,180.6,0.3913,92,/
+2025-12-26,facebook,cpc,remarketing_campaign,desktop,460,401,189,2410,5.24,189.1,0.4261,460,/
+2025-12-26,facebook,cpc,remarketing_campaign,mobile,315,278,135,1449,4.6,154.5,0.4889,315,/
+2025-12-26,facebook,cpc,remarketing_campaign,tablet,56,49,24,252,4.5,147.0,0.4929,56,/
+2025-12-26,google,cpc,remarketing_gdn,desktop,502,436,210,2259,4.5,157.7,0.4797,502,/
+2025-12-26,google,cpc,remarketing_gdn,mobile,346,304,152,1349,3.9,126.8,0.5144,346,/
+2025-12-26,google,cpc,remarketing_gdn,tablet,65,57,29,247,3.8,137.0,0.5537,65,/
+2025-12-26,google,organic,(not set),desktop,235,199,90,1128,4.8,169.3,0.4383,235,/
+2025-12-26,google,organic,(not set),mobile,168,143,68,762,4.54,143.7,0.4732,168,/
+2025-12-27,direct,(none),(not set),desktop,92,79,13,414,4.5,180.6,0.3913,92,/
 2025-12-27,direct,(none),(not set),mobile,58,50,8,243,4.19,147.8,0.4655,58,/
-2025-12-28,facebook,cpc,remarketing_campaign,desktop,467,407,191,2447,5.24,190.4,0.4240,467,/
-2025-12-28,facebook,cpc,remarketing_campaign,mobile,319,282,137,1467,4.60,155.6,0.4875,319,/
-2025-12-28,facebook,cpc,remarketing_campaign,tablet,57,50,24,256,4.49,148.1,0.4965,57,/
-2025-12-28,google,organic,(not set),desktop,239,203,92,1147,4.80,170.6,0.4351,239,/
-2025-12-28,google,organic,(not set),mobile,171,146,69,776,4.54,144.8,0.4708,171,/
+2025-12-27,facebook,cpc,remarketing_campaign,desktop,475,414,195,2489,5.24,191.2,0.4211,475,/
+2025-12-27,facebook,cpc,remarketing_campaign,mobile,325,287,139,1495,4.6,156.2,0.4862,325,/
+2025-12-27,facebook,cpc,remarketing_campaign,tablet,58,51,24,261,4.5,148.6,0.4914,58,/
+2025-12-27,google,cpc,remarketing_gdn,desktop,518,450,217,2331,4.5,168.7,0.4827,518,/
+2025-12-27,google,cpc,remarketing_gdn,mobile,358,315,157,1396,3.9,137.0,0.5483,358,/
+2025-12-27,google,cpc,remarketing_gdn,tablet,67,59,30,254,3.8,135.3,0.5457,67,/
+2025-12-27,google,organic,(not set),desktop,243,206,93,1166,4.8,171.1,0.4362,243,/
+2025-12-27,google,organic,(not set),mobile,174,148,70,789,4.54,145.3,0.4713,174,/
 2025-12-28,direct,(none),(not set),desktop,91,78,12,410,4.51,179.8,0.3956,91,/
 2025-12-28,direct,(none),(not set),mobile,58,50,8,243,4.19,147.3,0.4655,58,/
-2025-12-29,facebook,cpc,remarketing_campaign,desktop,482,420,198,2526,5.24,192.4,0.4190,482,/
-2025-12-29,facebook,cpc,remarketing_campaign,mobile,330,292,141,1518,4.60,157.1,0.4848,330,/
-2025-12-29,facebook,cpc,remarketing_campaign,tablet,59,52,25,265,4.49,149.5,0.4915,59,/
-2025-12-29,google,organic,(not set),desktop,246,209,94,1181,4.80,172.9,0.4350,246,/
-2025-12-29,google,organic,(not set),mobile,176,150,71,799,4.54,146.7,0.4705,176,/
+2025-12-28,facebook,cpc,remarketing_campaign,desktop,467,407,191,2447,5.24,190.4,0.424,467,/
+2025-12-28,facebook,cpc,remarketing_campaign,mobile,319,282,137,1467,4.6,155.6,0.4875,319,/
+2025-12-28,facebook,cpc,remarketing_campaign,tablet,57,50,24,256,4.49,148.1,0.4965,57,/
+2025-12-28,google,cpc,remarketing_gdn,desktop,510,443,214,2295,4.5,164.3,0.4861,510,/
+2025-12-28,google,cpc,remarketing_gdn,mobile,352,309,154,1372,3.9,133.5,0.5199,352,/
+2025-12-28,google,cpc,remarketing_gdn,tablet,66,58,29,250,3.8,133.3,0.5269,66,/
+2025-12-28,google,organic,(not set),desktop,239,203,92,1147,4.8,170.6,0.4351,239,/
+2025-12-28,google,organic,(not set),mobile,171,146,69,776,4.54,144.8,0.4708,171,/
 2025-12-29,direct,(none),(not set),desktop,93,80,13,419,4.51,182.2,0.3925,93,/
 2025-12-29,direct,(none),(not set),mobile,59,51,9,247,4.19,148.9,0.4576,59,/
+2025-12-29,facebook,cpc,remarketing_campaign,desktop,482,420,198,2526,5.24,192.4,0.419,482,/
+2025-12-29,facebook,cpc,remarketing_campaign,mobile,330,292,141,1518,4.6,157.1,0.4848,330,/
+2025-12-29,facebook,cpc,remarketing_campaign,tablet,59,52,25,265,4.49,149.5,0.4915,59,/
+2025-12-29,google,cpc,remarketing_gdn,desktop,530,461,222,2385,4.5,158.7,0.4754,530,/
+2025-12-29,google,cpc,remarketing_gdn,mobile,366,322,161,1427,3.9,131.7,0.5427,366,/
+2025-12-29,google,cpc,remarketing_gdn,tablet,69,61,31,262,3.8,136.7,0.5238,69,/
+2025-12-29,google,organic,(not set),desktop,246,209,94,1181,4.8,172.9,0.435,246,/
+2025-12-29,google,organic,(not set),mobile,176,150,71,799,4.54,146.7,0.4705,176,/
+2025-12-30,direct,(none),(not set),desktop,94,81,13,423,4.5,183.1,0.3936,94,/
+2025-12-30,direct,(none),(not set),mobile,60,52,9,251,4.18,149.6,0.45,60,/
 2025-12-30,facebook,cpc,remarketing_campaign,desktop,489,426,200,2562,5.24,193.1,0.4213,489,/
-2025-12-30,facebook,cpc,remarketing_campaign,mobile,334,295,143,1536,4.60,157.8,0.4850,334,/
+2025-12-30,facebook,cpc,remarketing_campaign,mobile,334,295,143,1536,4.6,157.8,0.485,334,/
 2025-12-30,facebook,cpc,remarketing_campaign,tablet,59,52,25,265,4.49,150.2,0.4915,59,/
-2025-12-30,google,organic,(not set),desktop,249,211,95,1195,4.80,173.7,0.4337,249,/
+2025-12-30,google,cpc,remarketing_gdn,desktop,525,456,220,2362,4.5,157.3,0.4836,525,/
+2025-12-30,google,cpc,remarketing_gdn,mobile,363,319,159,1415,3.9,135.9,0.535,363,/
+2025-12-30,google,cpc,remarketing_gdn,tablet,68,60,30,258,3.8,121.9,0.5423,68,/
+2025-12-30,google,organic,(not set),desktop,249,211,95,1195,4.8,173.7,0.4337,249,/
 2025-12-30,google,organic,(not set),mobile,178,152,72,808,4.54,147.4,0.4691,178,/
-2025-12-30,direct,(none),(not set),desktop,94,81,13,423,4.50,183.1,0.3936,94,/
-2025-12-30,direct,(none),(not set),mobile,60,52,9,251,4.18,149.6,0.4500,60,/

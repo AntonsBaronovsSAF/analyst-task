@@ -66,7 +66,6 @@ This exercise should take approximately 3-4 hours to complete.
 
 Good luck! We look forward to seeing your analysis.
 
----
 
 ## Contact
 
